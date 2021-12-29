@@ -1,0 +1,33 @@
+*{
+    font-family: Georgia, serif;
+    Background-color: lightgreen;
+    color: black;
+}
+
+img{
+    width: 400px;
+    height: auto;
+}
+
+a{
+    color: purple;
+}
+
+li{
+    font-family: Courier, monospace;
+}
+
+h3{
+    font-style: italic;
+}
+
+h4{
+    text-decoration: underline;
+}
+
+.love{
+    color: red;
+    font-family: cursive;
+    font-weight: bold;
+}
+
